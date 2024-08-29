@@ -1,7 +1,7 @@
 ### Hi there, I'm Dora Weng! 👋
 
 #### About Me
-I'm a Computer Science student at Cornell University, where I'm combining my passion for technology with a minor in Business. As an aspiring software developer, I'm immersed in learning and applying my skills in real-world projects.
+I'm a Computer Science student at Cornell University, where I'm combining my passion for technology with a minor in Information Science. As an aspiring software developer, I'm immersed in learning and applying my skills in real-world projects.
 
 #### Skills
 - **Programming Languages**: Python, Java, JavaScript, TypeScript, OCaml, HTML, CSS/TailwindCSS, MySQL, PostgreSQL
