@@ -10,10 +10,10 @@ I'm a Computer Science student at Cornell University, where I'm combining my pas
 I'm actively involved in web development projects through my participation in project teams and clubs at Cornell. These experiences are helping me hone my skills in a collaborative environment.
 
 #### Past Projects
-You can view all my past projects on [my personal website](https://dora-weng.vercel.app/#Home). Each project reflects a step in my journey as a developer and a learner.
+You can view my favorite past projects on [my personal website](https://dora-weng.vercel.app/#Home). Each project reflects a step in my journey as a developer and a learner.
 
 #### Learning and Future Goals
-Currently, I'm expanding my skills in C++. My next goal is to dive into mobile app development!.
+Currently, I'm diving into mobile app development!.
 
 #### Personal Interests
 When I'm not coding, I love exploring new music on Spotify and learning different coffee recipes. (I love my cafe campus job)
